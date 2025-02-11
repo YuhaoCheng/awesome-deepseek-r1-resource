@@ -36,6 +36,7 @@ Continue to add more resources.
 - [超算互联网](https://www.scnet.cn/ui/mall/)
 - [潞晨云](https://cloud.luchentech.com/maas)
 - [无问芯穹 (infini-ai.com)](https://cloud.infini-ai.com/promotion)
+- [SiliconFlow, Accelerate AGI to Benefit Humanity](https://siliconflow.cn/zh-cn/)
 
 ## Others
 - [DeepSeek-R1-Distill-Qwen-7B vLLM 部署调用](https://github.com/datawhalechina/self-llm/blob/master/models/DeepSeek-R1-Distill-Qwen/04-DeepSeek-R1-Distill-Qwen-7B%20vLLM%20%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md)
