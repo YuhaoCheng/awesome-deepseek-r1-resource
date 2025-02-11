@@ -12,6 +12,7 @@ Continue to add more resources.
 - [Unakar/Logic-RL: Reproduce R1 Zero on Logic Puzzle](https://github.com/Unakar/Logic-RL)
 - [hkust-nlp/simpleRL-reason: This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data](https://github.com/hkust-nlp/simpleRL-reason)
 - [agentica-org/DeepScaleR-1.5B-Preview · Hugging Face](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview)
+- [Jiayi-Pan/TinyZero: Clean, minimal, accessible reproduction of DeepSeek R1-Zero (github.com)](https://github.com/Jiayi-Pan/TinyZero)
 
 ## Related Talks and articles
 - [The Illustrated DeepSeek-R1 - by Jay Alammar (languagemodels.co)](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
