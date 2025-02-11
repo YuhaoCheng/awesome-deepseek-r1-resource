@@ -25,10 +25,16 @@ Continue to add more resources.
 - [Understanding Reasoning LLMs - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - [R1-Zero and R1 Results and Analysis (arcprize.org)](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 - [86 条 DeepSeek 的关键思考](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247511172&idx=1&sn=cc83f26bf31183099252c13779614a45&chksm=cf416b24209f5b66cb451f71aa84e64ef14869f995d674a8ca31f63e15b39821199f2e7f747f&scene=0#rd)
-
+- [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 ## Extend to Multimodality
 - [PKU-Alignment/Align-DS-V · Hugging Face](https://huggingface.co/PKU-Alignment/Align-DS-V)
 - [Deep-Agent/R1-V: Witness the aha moment of VLM with less than $3.](https://github.com/Deep-Agent/R1-V)
+
+## Third-party Platforms
+- [阿里云](https://www.aliyun.com/solution/tech-solution/deepseek-r1-for-platforms)
+- [超算互联网](https://www.scnet.cn/ui/mall/)
+- [潞晨云](https://cloud.luchentech.com/maas)
+- [无问芯穹 (infini-ai.com)](https://cloud.infini-ai.com/promotion)
 
 ## Others
 - [DeepSeek-R1-Distill-Qwen-7B vLLM 部署调用](https://github.com/datawhalechina/self-llm/blob/master/models/DeepSeek-R1-Distill-Qwen/04-DeepSeek-R1-Distill-Qwen-7B%20vLLM%20%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md)
