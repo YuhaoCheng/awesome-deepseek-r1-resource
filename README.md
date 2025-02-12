@@ -27,6 +27,7 @@ Continue to add more resources.
 - [R1-Zero and R1 Results and Analysis (arcprize.org)](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 - [86 条 DeepSeek 的关键思考](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247511172&idx=1&sn=cc83f26bf31183099252c13779614a45&chksm=cf416b24209f5b66cb451f71aa84e64ef14869f995d674a8ca31f63e15b39821199f2e7f747f&scene=0#rd)
 - [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI)
+- [DeepSeek FAQ](https://www.youtube.com/watch?v=jOukzhFwiCo)
 ## Extend to Multimodality
 - [PKU-Alignment/Align-DS-V · Hugging Face](https://huggingface.co/PKU-Alignment/Align-DS-V)
 - [Deep-Agent/R1-V: Witness the aha moment of VLM with less than $3.](https://github.com/Deep-Agent/R1-V)
