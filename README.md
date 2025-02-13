@@ -45,7 +45,7 @@ Continue to add more resources.
 
 ## Others
 - [DeepSeek-R1-Distill-Qwen-7B vLLM 部署调用](https://github.com/datawhalechina/self-llm/blob/master/models/DeepSeek-R1-Distill-Qwen/04-DeepSeek-R1-Distill-Qwen-7B%20vLLM%20%E9%83%A8%E7%BD%B2%E8%B0%83%E7%94%A8.md)
--  [ktransformers/doc/en/DeepseekR1_V3_tutorial.md at main · kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/DeepseekR1_V3_tutorial.md)
+- [ktransformers/doc/en/DeepseekR1_V3_tutorial.md at main · kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/DeepseekR1_V3_tutorial.md) 
   - Support DeepseekR1 and V3 on single (24GB VRAM)/multi gpu and 382G DRAM, up to 3~28x speedup.
 - [Multi-Head Latent Attention(MLA)详细介绍](https://zhuanlan.zhihu.com/p/15153745590)
--  [一文搞懂DeepSeek的技术演进之路：大语言模型、视觉语言理解、多模态统一模型 - 知乎](https://zhuanlan.zhihu.com/p/22972365914)
+- [一文搞懂DeepSeek的技术演进之路：大语言模型、视觉语言理解、多模态统一模型 - 知乎](https://zhuanlan.zhihu.com/p/22972365914)
