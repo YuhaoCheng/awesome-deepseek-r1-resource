@@ -49,3 +49,5 @@ Continue to add more resources.
   - Support DeepseekR1 and V3 on single (24GB VRAM)/multi gpu and 382G DRAM, up to 3~28x speedup.
 - [Multi-Head Latent Attention(MLA)详细介绍](https://zhuanlan.zhihu.com/p/15153745590)
 - [一文搞懂DeepSeek的技术演进之路：大语言模型、视觉语言理解、多模态统一模型 - 知乎](https://zhuanlan.zhihu.com/p/22972365914)
+- [getAsterisk/deepclaude: A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.](https://github.com/getasterisk/deepclaude)
+	- DeepClaude is a high-performance LLM inference API that combines DeepSeek R1's Chain of Thought (CoT) reasoning capabilities with Anthropic Claude's creative and code generation prowess. It provides a unified interface for leveraging the strengths of both models while maintaining complete control over your API keys and data.
