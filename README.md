@@ -16,6 +16,9 @@ Continue to add more resources.
 - [Jiayi-Pan/TinyZero: Clean, minimal, accessible reproduction of DeepSeek R1-Zero (github.com)](https://github.com/Jiayi-Pan/TinyZero)
 - [dhcode-cpp/X-R1: minimal-cost for training 0.5B R1-Zero](https://github.com/dhcode-cpp/X-R1)
   - X-R1 aims to build an easy-to-use, low-cost training framework based on reinforcement learning to accelerate the development of Scaling Post-Training
+- [lsdefine/simple_GRPO: A very simple GRPO implement for reproducing r1-like LLM thinking.](https://github.com/lsdefine/simple_GRPO)
+  - A very simple GRPO implement for reproducing r1-like LLM thinking. This is a simple open source implementation that utilizes the core loss calculation formula referenced from Hugging Face's trl.
+
 
 
 ## Related Talks and articles
