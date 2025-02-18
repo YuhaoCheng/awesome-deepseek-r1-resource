@@ -1,5 +1,6 @@
 # awesome-deepseek-r1-resource
 This repo contains the resources for DeepSeek R1. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Continue to add more resources.
 
 ## DeepSeek R1 related papers
@@ -34,6 +35,8 @@ Continue to add more resources.
 ## Extend to Multimodality
 - [PKU-Alignment/Align-DS-V · Hugging Face](https://huggingface.co/PKU-Alignment/Align-DS-V)
 - [Deep-Agent/R1-V: Witness the aha moment of VLM with less than $3.](https://github.com/Deep-Agent/R1-V)
+- [om-ai-lab/VLM-R1: Solve Visual Understanding with Reinforced VLMs](https://github.com/om-ai-lab/VLM-R1)
+  - Since the introduction of Deepseek-R1, numerous works have emerged focusing on reproducing and improving upon it. In this project, we propose VLM-R1, a stable and generalizable R1-style Large Vision-Language Model.
 
 ## Third-party Platforms
 - [阿里云](https://www.aliyun.com/solution/tech-solution/deepseek-r1-for-platforms)
